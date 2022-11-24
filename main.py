@@ -13,7 +13,7 @@ def checkAmount(x):
 # Airtime Transaction
 def airtimeTrans():
     phone = input("Enter Phone Number: ")
-    if len(phone) == 11 and phone.isnumeric():
+    if len(phone) == 11 and phone.isnumeric() and phone[0] == '0':
         checkAmount(phone)
     else:
         print(
