@@ -1,9 +1,9 @@
 # hello
 # Recharge4ME
 def rechame():
-    tweak = input("Enter 1 to recharge #100 to get #600\n")
+    tweak = input("Enter 1 to recharge N100 to get N600\n")
     if tweak == "1":
-        print("You have been credited with #600")
+        print("You have been credited with N600")
     else:
         print(
             "Invalid Entry\n"
