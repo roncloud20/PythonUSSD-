@@ -23,7 +23,7 @@ airtime_balance = random.randint(0,1000)
 # Airtel Social Media Handles
 def socMed():
         social = input("1. Twitter\n"
-                       "2. Email Me\n"
+                       "2. Email Us\n"
                        "3. Facebook\n"
                        "4. Download Airtel Care App\n"
                        "# Previous Menu\n")
@@ -33,7 +33,7 @@ def socMed():
             if twitter == "#":
                 socMed()
 
-        if social == "2":   #Email
+        if social == "2":   #Email US
             print("Send an email to Airtel at customercare@ng.airtel.com\n")
             mail = input("# Previous Menu\n")
             if mail == "#":
