@@ -1,4 +1,4 @@
-# hello
+
 # Recharge4ME
 def rechame():
     tweak = input("Enter 1 to recharge N100 to get N600\n")
@@ -1062,6 +1062,1441 @@ def borrowCredit():
             "Try Again!!!"
         )
         borrowCredit()
+
+def friends():
+    one = input("Enter phone number: \n")
+    if len(one) == 11:
+        print("Your request has been sent\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        friends()
+
+def threeMB():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        threeMB()
+
+def hundredMB():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        hundredMB()
+
+def Twenty():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Twenty()
+
+def OperaMini():
+    opera = input(
+        "Enter 1 for #20/25mb/1 day\n"
+        "Enter 2 for #50/100mb/7 days\n"
+        "Enter 3 for #100/300mb/30 days\n"
+    )
+    if opera == "1":
+        print("Proceed: \n")
+        Twenty()
+    elif opera == "2":
+        print("Proceed: \n")
+        hundredMB()
+    elif opera == "3":
+        print("Proceed: \n")
+        threeMB()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        OperaMini()
+
+def hundred3():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        hundred3()
+
+def YIT():
+    yit = input("Enter 1 to buy #100 for 350mb @ daily\n")
+    if yit == "1":
+        print("Proceed: \n")
+        hundred3()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        YIT()
+
+def twoF():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        twoF()
+
+def hundred2():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        hundred2()
+
+def fifty3():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        fifty3()
+
+def socialApp():
+    SocialA = input(
+        "Enter 1 for daily @ #50 for 150mb\n"
+        "Enter 2 for weekly @ #100 for 350mb\n"
+        "Enter 3 for monthly @ #250 for 1GB\n"
+    )
+    if SocialA == "1":
+        print("Proceed: \n")
+        fifty3()
+    elif SocialA == "2":
+        print("Proceed: \n")
+        hundred2()
+    elif SocialA == "3":
+        print("Proceed: \n")
+        twoF()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        socialApp()
+
+
+def Onefifty():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Onefifty()
+
+def Fifty3():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Fifty3()
+
+def Twentyfive2():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Twentyfive2()
+
+def Ayoba():
+    Ay = input(
+        "Enter 1 to buy #25 for 25mb/1day\n"
+        "Enter 2 to buy #50 for 50mb/7days\n"
+        "Enter 3 to buy #150 for 150mb\n"
+    )
+    if Ay == "1":
+        print("Proceed: \n")
+        Twentyfive2()
+    elif Ay == "2":
+        print("Proceed: \n")
+        Fifty3()
+    elif Ay == "3":
+        print("Proceed: \n")
+        Onefifty()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        Ayoba()
+
+def threefifty():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        threefifty()
+
+def fifty2():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        fifty2()
+
+def Tiktok():
+    Tik = input(
+        "Enter 1 to buy #50 for 200mb/1day\n"
+        "Enter 2 to buy #350 for 2GB/7days\n"
+    )
+    if Tik == "1":
+        print("Proceed: \n")
+        fifty2()
+    elif Tik == "2":
+        print("Proceed: \n")
+        threefifty()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        Tiktok()
+
+def tHundred2():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        tHundred2()
+
+def tHundred():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        tHundred()
+
+def Hundred2():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Hundred2()
+
+def Hundred():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Hundred()
+
+def Instagram():
+    Insta = input(
+        "Enter 1 to buy #100 for 250mb/1 day\n"
+        "Enter 2 to buy #100 for 350mb\n"
+        "Enter 3 to buy #200 for 1GB\n"
+        "Enter 4 to buy #200 for 1GB/3-days\n"
+    )
+    if Insta == "1":
+        print("Proceed: \n")
+        Hundred()
+    elif Insta == "2":
+        print("Proceed: \n")
+        Hundred2()
+    elif Insta == "3":
+        print("Proceed: \n")
+        tHundred()
+    elif Insta == "4":
+        print("Proceed: \n")
+        tHundred2()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        Instagram()
+
+def oneFifty2():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        oneFifty2()
+
+def Fifty2():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Fifty2()
+
+def Twentyfive():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Twentyfive()
+
+def FaceB():
+    faceB = input(
+        "Enter 1 to buy daily @ #25 for 25mb\n"
+        "Enter 2 to buy weekly @ #50 for 50mb\n"
+        "Enter 3 to buy monthly @ #150 for 150\n"
+      )
+    if faceB == "1":
+        print("Proceed: \n")
+        Twentyfive()
+    elif faceB == "2":
+        print("Proceed: \n")
+        Fifty2()
+    elif faceB == "3":
+        print("Proceed: \n")
+        oneFifty2()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        FaceB()
+
+def oneFifty():
+    oneF = input("Enter Reciepient Number: \n")
+    if len(oneF) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        oneFifty()
+
+def Fifty():
+    fifty = input("Enter Reciepient Number: \n")
+    if len(fifty) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Fifty()
+
+def twentyfive():
+    Tfive = input("Enter Reciepient Number: \n")
+    if len(Tfive) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        twentyfive()
+
+def WhatsApp():
+    watsup = input(
+        "Enter 1 for daily @ #25 for 25mb\n"
+        "Enter 2 for weekly @ #50 for 50mb\n"
+        "Enter 3 for monthly @ #150 for 150mb\n"
+       )
+    if watsup == "1":
+        print("Proceed: \n")
+        twentyfive()
+    elif watsup == "2":
+        print("Proceed: \n")
+        Fifty()
+    elif watsup == "3":
+        print("Proceed: \n")
+        oneFifty()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        WhatsApp()
+
+def socialBun():
+    socials = input(
+        "Enter 1 for WhatsApp\n"
+        "Enter 2 for FaceBook\n"
+        "Enter 3 for Instagram\n"
+        "Enter 4 for Tiktok\n"
+        "Enter 5 for Ayoba\n"
+        "Enter 6 for All Social Bundles\n"
+        "Enter 7 for YouTube, Instagram, and TikTok\n"
+        "Enter 8 for Opera Mini $ News\n"
+        )
+    if socials == "1":
+        print("Select WhatsApp plans: \n")
+        WhatsApp()
+    elif socials == "2":
+        print("select FaceBook Plans: \n")
+        FaceB()
+    elif socials == "3":
+        print("Select Instagram Plans: \n")
+        Instagram()
+    elif socials == "4":
+        print("Select TikTok Plans: \n")
+        Tiktok()
+    elif socials == "5":
+        print("Select Ayoba Plans: \n")
+        Ayoba()
+    elif socials == "6":
+        print("Select All Socials Plans: \n")
+        socialApp()
+    elif socials == "7":
+        print("Select YouTube, Instagram, and TikTok Plans: \n")
+        YIT()
+    elif socials == "8":
+        print("Select Opera Mini $ News Plans: \n")
+        OperaMini()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+
+
+def seventyFive():
+    seven = input("Enter Reciepient Number: \n")
+    if len(seven) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        seventyFive()
+
+def fiftyK():
+    Fiftyk = input("Enter Reciepient Number: \n")
+    if len(Fiftyk) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        fiftyK()
+
+def threeM():
+    ThreeM = input(
+        "Enter 1, #50000 for 400GB\n"
+        "Enter 2, #75000 for 600GB\n"
+    )
+    if ThreeM == "1":
+        print("Proceed: \n")
+        fiftyK()
+    elif ThreeM == "2":
+        input("Proceed:  \n")
+        seventyFive()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        threeM()
+
+def thirty():
+    Thirty = input("Enter Reciepient Number: \n")
+    if len(Thirty) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        thirty()
+
+def twenty():
+    Twenty = input("Enter Reciepient Number: \n")
+    if len(Twenty) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        twenty()
+
+
+def eight():
+    Eight = input("Enter Reciepient Number: \n")
+    if len(Eight) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        eight()
+
+def twoM():
+    TwoM = input(
+        "Enter 1, #8000 for 30GB\n"
+        "Enter 2, #20000 for 100GB\n"
+        "Enter 3, #30000 for 160GB\n"
+    )
+    if TwoM == "1":
+        print("Proceed: \n")
+        eight()
+    elif TwoM == "2":
+        input("Proceed:  \n")
+        twenty()
+    elif TwoM == "3":
+        print("Proceed: \n")
+        thirty()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+
+def threeK():
+    Three = input("Enter Reciepient Number: \n")
+    if len(Three) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        threeK()
+
+
+def fourK():
+    Four = input("Enter Reciepient Number: \n")
+    if len(Four) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        fourK()
+
+
+def sixK():
+    six = input("Enter Reciepient Number: \n")
+    if len(six) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        sixK()
+
+
+def twoK():
+    Two = input("Enter Reciepient Number: \n")
+    if len(Two) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        twoK()
+
+
+def oneTwo():
+    oneK = input("Enter Reciepient Number: \n")
+    if len(oneK) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        oneTwo()
+
+
+def monthly():
+    Monthly = input(
+        "Enter 1, #1200 for 2GB\n"
+        "Enter 2, #2000 for 6GB\n"
+        "Enter 3, #6000 for 25GB\n"
+        "Enter 4, #4000 for 17GB\n"
+        "Enter 5, #3000 for 2GB(2 days)\n"
+
+    )
+    if Monthly == "1":
+        print("Proceed: \n")
+        oneTwo()
+    elif Monthly == "2":
+        input("Proceed:  \n")
+        twoK()
+    elif Monthly == "3":
+        print("Proceed: \n")
+        sixK()
+    elif Monthly == "4":
+        print("Proceed:  \n")
+        fourK()
+    elif Monthly == "5":
+        print("Proceed:  \n")
+        threeK()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        monthly()
+
+def FiveH():
+    fiveh = input("Enter Reciepient Number: \n")
+    if len(fiveh) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        FiveH()
+
+def oneThousand():
+    oneT = input("Enter Reciepient Number: \n")
+    if len(oneT) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        oneThousand()
+
+def oneFive():
+    one = input("Enter Reciepient Number: \n")
+    if len(one) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        oneFive()
+
+def Fhundred():
+    five = input("Enter Reciepient Number: \n")
+    if len(five) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Fhundred()
+
+def Thundred():
+    three = input("Enter Reciepient Number: \n")
+    if len(three) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        Thundred()
+
+def weekly():
+    Weekly = input(
+        "Enter 1, #300 for 350mb\n"
+        "Enter 2, #500 for 750mb\n"
+        "Enter 3, #1500 for 6GB\n"
+        "Enter 4, #1000 for 2GB\n"
+        "Enter 5, #500 for 1GB\n"
+
+    )
+    if Weekly == "1":
+        print("Proceed: \n")
+        Thundred()
+    elif Weekly == "2":
+        input("Proceed:  \n")
+        Fhundred()
+    elif Weekly == "3":
+        print("Proceed: \n")
+        oneFive()
+    elif Weekly == "4":
+        print("Proceed:  \n")
+        oneThousand()
+    elif Weekly == "5":
+        print("Proceed:  \n")
+        FiveH()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        weekly()
+
+
+def fiveHundred():
+    fiveH = input("Enter Reciepient Number: \n")
+    if len(fiveH) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        fiveHundred()
+
+def threeHundred():
+    threeH = input("Enter Reciepient Number: \n")
+    if len(threeH) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        threeHundred()
+
+def twoHundred():
+    twoH = input("Enter Reciepient Number: \n")
+    if len(twoH) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        twoHundred()
+
+def hundred():
+    Hundred = input("Enter Reciepient Number: \n")
+    if len(Hundred) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        hundred()
+
+def fifty():
+    Fifty = input("Enter Reciepient Number: \n")
+    if len(Fifty) == 11:
+        print("Your transfer was sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        fifty()
+
+
+def daily():
+    Daily = input(
+        "Enter 1, #50 for 40mb\n"
+        "Enter 2, #100 for 100mb\n"
+        "Enter 3, #200 for 200MB(3-days plan)\n"
+        "Enter 4, #300 for 1GB\n"
+        "Enter 5, #500 for 2GB(2 days)\n"
+
+    )
+    if Daily == "1":
+        print("Proceed: \n")
+        fifty()
+    elif Daily == "2":
+        input("Proceed:  \n")
+        hundred()
+    elif Daily == "3":
+        print("Proceed: \n")
+        twoHundred()
+    elif Daily == "4":
+        print("Proceed:  \n")
+        threeHundred()
+    elif Daily == "5":
+        print("Proceed:  \n")
+        fiveHundred()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        daily()
+
+def dataP():
+    data = input(
+        "Enter 1 for daily plans\n"
+        "Enter 2 for Weekly plans\n"
+        "Enter 3 for Monthly plans\n"
+        "Enter 4 for 2-Months plans\n"
+        "Enter 5 for 3-Months plans\n"
+    )
+    if data == "1":
+        print("Select Plans\n")
+        daily()
+    elif data == "2":
+        input("Select Plans: \n")
+        weekly()
+    elif data == "3":
+        print("Select Plans: \n")
+        monthly()
+    elif data == "4":
+        print("Select plans: \n")
+        twoM()
+    elif data == "5":
+        print("Select plans: \n")
+        threeM()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+
+def Friends():
+    friend = input(
+        "Enter 1 to buy data plans\n"
+        "Enter 2 to buy social bundles\n"
+        "Enter 3 for video packs\n"
+    )
+    if friend == "1":
+        print("Select plan: \n")
+        dataP()
+    elif friend =="2":
+        print("Select plan: \n")
+        socialBun()
+    elif friend == "3":
+        print("Select plan: \n")
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        Friends()
+
+def amount(num):
+    amt = input("Enter Amount")
+    if amt.isnumeric():
+        print(f"{num} has been credited with {amt} naria\n")
+    else:
+        print(
+            "Invalid Number\n"
+            "Try Again\n"
+        )
+        amount()
+
+def dataB():
+    Datab = input("Number: \n")
+    if len(Datab) == 11:
+        amount()
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+              )
+        dataB()
+
+def giftData():
+    gift = input(
+        "Enter 1 to transfer from Data Balance\n"
+        "Enter 2 to buy for a friend\n"
+        "Enter 3 to request from a friend\n"
+        "Enter 4 to view pending request\n"
+        "Enter 0 to go back\n"
+        "Enter 00 for mMainMenu\n"
+    )
+    if gift == "1":
+        print(" Enter Reciepient Number\n")
+        dataB()
+    elif gift == "2":
+        print(
+            "Welcome to MTN Data Gifting.\n"
+            "Select plan: \n"
+        )
+        Friends()
+    elif gift == "3":
+        print(
+            "To request Data from a friend\n"
+        )
+        friends()
+    elif gift == "4":
+        print(
+            "Yello! You have no pending request\n"
+            "Thank You\n"
+              )
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        giftData()
+
+def onefiftyMin():
+    ofm = input(
+        "1. Proceed: \n"
+        "0. Back\n"
+        "00. MainMenu\n"
+    )
+    if ofm == "1":
+        print("Your activation of IDB1,500 is sucessful, valid for only 30 days\n")
+    elif ofm == "0":
+        Suscribe()
+    elif ofm == "00":
+        buyData()
+    else:
+        print(
+            "Invalid code\n"
+            "Try Again\n"
+        )
+        onefiftyMin()
+
+def fortyMin():
+    fm = input(
+        "1. Proceed: \n"
+        "0. Back\n"
+        "00. MainMenu\n"
+    )
+    if fm == "1":
+        print("Your activation of IDB500 is sucessful, valid for only 7 days\n")
+    elif fm == "0":
+        Suscribe()
+    elif fm == "00":
+        buyData()
+    else:
+        print(
+            "Invalid code\n"
+            "Try Again\n"
+        )
+        fortyMin()
+
+def twentyMin():
+    tm = input(
+        "1. Proceed: \n"
+        "0. Back\n"
+        "00. MainMenu\n"
+    )
+    if tm == "1":
+        print("Your activation of IDB300 is sucessful, valid for only 3 days\n")
+    elif tm == "0":
+        Suscribe()
+    elif tm == "00":
+        buyData()
+    else:
+        print(
+            "Invalid code\n"
+            "Try Again\n"
+        )
+        twentyMin()
+
+def Suscribe():
+    sus = input(
+        "1. IDB300\n"
+        "2. IDB500\n"
+        "3. IDB1,500\n"
+        "0. Back\n"
+        "00. MainMenu\n"
+    )
+    if sus == "1":
+        print("Buy IDB300 and get 20mins for calls to eligible destinations, valid for 3 days\n")
+        twentyMin()
+    elif sus == "2":
+        print("Buy IDB500 and get 40mins for calls to eligible destinations, valid for 7 days\n")
+        fortyMin()
+    elif sus == "3":
+        print("Buy IDB1,500 and get 150mins for calls to eligible destinations, valid for 30 days\n")
+        onefiftyMin()
+    elif sus == "0":
+        ICB()
+    elif sus == "00":
+        Roaming()
+    else:
+        print(
+            "Invalid code\n"
+            "Try Again\n"
+        )
+        Suscribe()
+
+def ICB():
+    icb = input(
+        "Enter 1 to suscbribe to Int'L Calling Bundles\n"
+        "Enter 2 for Eligible Countries(Bundle applicable to selected networks in destinations listed\n"
+        "0. back\n"
+    )
+    if icb == "1":
+        print("Select: \n")
+        Suscribe()
+    elif icb == "2":
+        print(
+            "1. Canada\n"
+            "2. China\n"
+            "3. Denmark\n"
+            "4. Norway\n"
+            "5. India\n"
+            "6. Ireland\n"
+            "7. Malaysia\n"
+            "8. Romania\n"
+            "9. South Korea\n"
+            "10. United State\n"
+        )
+    elif icb == "0":
+        Roaming()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        ICB()
+
+def ED():
+    ed = input(
+        "Enter 1 for UK(Vodafone, 02, Orange $ T-Mobile)\n"
+        "Enter 2 for USA(AT&T)\n"
+        "Enter 3 for France(SFR & Orange)\n"
+        "Enter 4 for Germany(Vodafone $ T-Mobile)\n"
+        "Enter 5 for Italy(Vodafone $ H3G)\n"
+    )
+    if ed == "1":
+        print("Invalid input, please try again\n")
+    elif ed == "2":
+        print("Invalid input, please try again\n")
+    elif ed == "3":
+        print("Invalid input, please try again\n")
+    elif ed == "4":
+        print("Invalid input, please try again\n")
+    elif ed == "5":
+        print("Invalid input, please try again\n")
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        ED()
+
+def FIRC():
+    firc = input(
+        "Enter 1 to Check Eligibility\n"
+        "Enter 2 for Eligible Destination\n"
+        "Enter 3 to Check free incoming minutes\n"
+    )
+    if firc == "1":
+        print(
+            "Dear customer, you are eligible to recieve calls for free during your next trip abroad.\n"
+            "Please dial *131*5*3*3# for applicable incoming minutes.\n"
+              )
+    elif firc == "2":
+        print("Select: \n")
+        ED()
+    elif firc == "3":
+        print("You have 300 Mins from your free incoming mins, valid till 24/11/22\n")
+    else:
+        print(
+            "Inalid code\n"
+            "Try Again\n"
+        )
+        FIRC()
+
+def country():
+     C = input(
+         "Enter 1 for Lufthansa\n"
+         "Enter 2 for Turkish\n"
+         "Enter 3 for Emirate\n"
+         "Enter 4 for Qatar\n"
+         "Enter 5 for Ethiad\n"
+         "Enter 6 for Camp Nou\n"
+     )
+     if C == "1":
+         print("Invalid input, try again\n")
+     elif C == "2":
+        print("Invalid input, try again\n")
+     elif C == "3":
+        print("Invalid input, try again\n")
+     elif C == "4":
+        print("Invalid input, try again\n")
+     elif C == "5":
+        print("Invalid input, try again\n")
+     elif C == "6":
+        print("Invalid input, try again\n")
+     else:
+         print(
+             "Invalid Code\n"
+             "Try Again\n"
+         )
+         country()
+
+def bBF():
+    bff = input("Number: ")
+    if len(bff) == 11:
+        print(f"The activation of #5000 TravelPass for 7days to {bff} is sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+        )
+        bBF()
+
+def next():
+    P = input("Proceed")
+    if P == "Proceed":
+        print("Your activation of 50mb for #2,000 was sucessful\n")
+    else:
+        print(
+            "Insufficient Balance\n"
+            "Try Again"
+              )
+        next()
+
+def IRD():
+    ird = input(
+        "Enter 1 for 50mb @ #2,000\n"
+        "Enter 2 view Airlines\n"
+    )
+    if ird == "1":
+        print(
+            "1. Next\n"
+            "2. Buy for a friend\n"
+        )
+        next()
+        bBF()
+    elif ird == "2":
+        print(
+        "Aeromobile Inflight service will be available on select airplanes from the below airlines\n"
+            "Select: \n"
+        )
+        country()
+    else:
+        print(
+            "Invalid Entry\n"
+            "Try Again\n"
+        )
+        IRD()
+
+def eDestination():
+    destination = input(
+        "Enter 1 for UAE(Etisalat)\n"
+        "Enter 2 for (AT&T & T-Mobile)\n"
+        "Enter 3 for Saudi Arabia(Eithad & Zain)\n"
+        "Enter 4 for Canada(Bell, Rogers, Sask Tel & TELUS)\n"
+    )
+    if destination == "1":
+        print("Sorry service is temporary unavailable\n")
+    elif destination == "2":
+        print("Sorry service is temporary unavailable\n")
+    elif destination == "3":
+        print("Sorry service is temporary unavailable\n")
+    elif destination == "4":
+        print("Sorry service is temporary unavailable\n")
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+    )
+        eDestination()
+
+def eBundles():
+    Ebundles = input(
+        "Enter 1 to buy #2000 for 4.5GB\n"
+        "Enter 2 to buy #2500 for 6GB\n"
+        "Enter 3 to buy #3000 for 10GB\n"
+        "Enter 4 to buy #3500 for 12GB\n"
+        "Enter 5 to buy #5000 for 20GB\n"
+        "Enter 6 to buy #10000 for 40GB\n"
+        "Enter 7 to buy #3500 for 15GB\n"
+    )
+    if Ebundles == "1":
+        print("Sorry service is temporary unavailable\n")
+    elif Ebundles == "2":
+        print("Sorry service is temporary unavailable\n")
+    elif Ebundles == "3":
+        print("Sorry service is temporary unavailable\n")
+    elif Ebundles == "4":
+        print("Sorry service is temporary unavailable\n")
+    elif Ebundles == "5":
+        print("Sorry service is temporary unavailable\n")
+    elif Ebundles == "6":
+        print("Sorry service is temporary unavailable\n")
+    elif Ebundles == "7":
+        print("Sorry service is temporary unavailable\n")
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+    )
+        eBundles()
+
+def DataH():
+    dataH = input(
+        "Enter 1 for Eligible Bundles\n"
+        "Enter 2 for Destination\n"
+    )
+    if dataH == "1":
+        print("Select paln: \n")
+        eBundles()
+    elif dataH == "2":
+        print("Select plan: \n")
+        eDestination()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        DataH()
+
+def EligibleD():
+    eligible = input(
+        "Enter 1 for UAE(Etisalat)\n"
+        "Enter 2 for (AT&T & T-Mobile)\n"
+        "Enter 3 for Saudi Arabia(Eithad & Zain)\n"
+        "Enter 4 for Canada(Bell, Rogers, Sask Tel & TELUS)\n"
+    )
+    if eligible == "1":
+        print("Sorry service is temporary unavailable\n")
+    elif eligible == "2":
+        print("Sorry service is temporary unavailable\n")
+    elif eligible == "3":
+        print("Sorry service is temporary unavailable\n")
+    elif eligible == "4":
+        print("Sorry service is temporary unavailable\n")
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        EligibleD()
+
+def BFF3():
+    bff = input("Number: ")
+    if len(bff) == 11:
+        print(f"The activation of #5000 TravelPass for 7days to {bff} is sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+        )
+        BFF3()
+
+def sevenDays2():
+    seven2 = input(
+        "Enter 1 to proceed(One-off)\n"
+        "Enter 2 to buy for a friend\n"
+    )
+    if seven2 == "1":
+        print("Activation of #10000 TravelPass for 14days was sucessful\n")
+    elif seven2 == "2":
+        print("Enter Recipients number: \n")
+        BFF3()
+    else:
+        print(
+            "Insufficient balance\n"
+            "Try Again\n"
+        )
+        sevenDays2()
+
+def BFF2():
+    bff = input("Number: ")
+    if len(bff) == 11:
+        print(f"The activation of #10000 TravelPass for 14days to {bff} is sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+        )
+        BFF2()
+
+def fourteenDays():
+    four = input(
+        "Enter 1 to proceed(One-off)\n"
+        "Enter 2 to buy for a friend\n"
+    )
+    if four == "1":
+        print("Activation of #10000 TravelPass for 14days was sucessful\n")
+    elif four == "2":
+        print("Enter Recipients number: \n")
+        BFF2()
+    else:
+        print(
+            "Insufficient balance\n"
+            "Try Again\n"
+        )
+        fourteenDays()
+
+def BFF():
+    bff = input("Number: ")
+    if len(bff) == 11:
+        print(f"The activation of #5000 TravelPass for 7days to {bff} is sucessful\n")
+    else:
+        print(
+            "Wrong number\n"
+            "Try Again\n"
+        )
+        BFF()
+
+def sevenDays():
+    seven = input(
+        "Enter 1 to proceed(One-off)\n"
+        "Enter 2 to buy for a friend\n"
+    )
+    if seven == "1":
+        print("Activation of #5000 TravelPass for 7days was sucessful\n")
+    elif seven == "2":
+        print("Enter Recipients number: \n")
+        BFF()
+    else:
+        print(
+            "Insufficient balance\n"
+            "Try Again\n"
+        )
+        sevenDays()
+
+def TravelPass():
+    travel = input(
+        "Enter 1 for 7Days TravelPass @#5000\n"
+        "Enter 2 for 14Days TravelPass @#10000\n"
+        "Enter 3 for 7Days TravelPass(Data) @#5000\n"
+        "Enter 4 for Eligible Destination\n"
+    )
+    if travel == "1":
+        print(
+            "Enjoy unlimted outgoing calls $ SMS with 7days TravelPass Plan@#5000(Fair Usage apply)\n"
+            "Select plan: \n"
+        )
+        sevenDays()
+    elif travel == "2":
+        print(
+            "Enjoy unlimted outgoing calls/SMS with 14days TravelPass Plan@#10000(Fair Usage apply)\n"
+            "Select plan: \n"
+        )
+        fourteenDays()
+    elif travel == "3":
+        print(
+            "Get 1GB TravelPass valid for 7days @#5000\n"
+            "Select plan: \n"
+        )
+        sevenDays2()
+    elif travel == "4":
+        print("Select plan: \n")
+        EligibleD()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        TravelPass()
+
+# ROAMING
+def Roaming():
+    roaming = input(
+        "Enter 1 for TravelPass Plans\n"
+        "Enter 2 for Data Hybrid\n"
+        "Enter 3 for Inflight Roaming Data\n"
+        "Enter 4 for Free incoming roaming call\n"
+        "Enter 5 for Intl Callijng Bundle\n"
+        "Enter 6 for Roaming Balance Check\n"
+        "0. Back\n"
+    )
+    if roaming == "1":
+        print("Select Plans: \n")
+        TravelPass()
+    elif roaming == "2":
+        print("Select Plans: \n")
+        DataH()
+    elif roaming == "3":
+        print("Select Plans: \n")
+        IRD()
+    elif roaming == "4":
+        print("Select Plans: \n")
+        FIRC()
+    elif roaming == "5":
+        print("Select Plans: \n")
+        ICB()
+    elif roaming == "6":
+        print(
+            "Dear customer, you do not have any active data bundles.\n"
+            "Please dial *131*1# to nuy another Data Bundle\n"
+              )
+    elif roaming == "0":
+        buyData()
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        Roaming()
+
+# CHECKING BALANCE
+def Balance():
+    balance = input("Your data balance: \n")
+    if balance == "3":
+        print(
+            "Weekly: 911.23MB expires 18/11/22\n"
+            "YouTube Nigh: 7.47GB expires 11/11/22\n"
+        )
+    else:
+        print(
+            "Invalid Code\n"
+            "Try Again\n"
+        )
+        Balance()
 
 # Social Mega Bundles
 def SMB():
@@ -2464,8 +3899,10 @@ def selectTrans():
         socialBundles()
     elif trans == "4":
         print("Check Balance")
+        Balance()
     elif trans == "5":
         print("Roaming")
+        Roaming()
     elif trans == "6":
         print("Borrow Credit or Recharge")
         borrowCredit()
